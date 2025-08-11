@@ -1,12 +1,29 @@
-# React + Vite
+🍳 Chef Claude – AI Recipe Generator
+Chef Claude is your smart kitchen companion.
+Just tell it what ingredients you have, and it will whip up delicious, creative recipes using Claude AI — complete with step-by-step cooking instructions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🥗 Ingredient-Based Cooking – Recipes generated from what’s in your kitchen.
 
-Currently, two official plugins are available:
+🤖 Claude AI Powered – Unique, creative ideas every time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🍝 Detailed Steps – Clear instructions for every recipe.
 
-## Expanding the ESLint configuration
+🌍 Global Cuisine Options – Explore dishes from around the world.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔄 Regenerate Recipes – Not satisfied? Get a new one instantly.
+
+🚀 Quick Start
+bash
+# 1️⃣ Clone the repository
+git clone https://github.com/yourusername/chef-claude.git
+cd chef-claude
+
+# 2️⃣ Install dependencies
+npm install
+
+# 3️⃣ Add Claude API Key in .env file
+CLAUDE_API_KEY=your_api_key_here
+
+# 4️⃣ Start the app
+npm run dev
