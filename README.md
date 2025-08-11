@@ -1,29 +1,20 @@
-🍳 Chef Claude – AI Recipe Generator
-Chef Claude is your smart kitchen companion.
-Just tell it what ingredients you have, and it will whip up delicious, creative recipes using Claude AI — complete with step-by-step cooking instructions.
+# 🎲 Tenzies Game
+Tenzies is a fun and addictive dice game built with React. Roll the dice, hold your favorites, and try to get all ten dice to show the same number as quickly as possible!
 
-✨ Features
-🥗 Ingredient-Based Cooking – Recipes generated from what’s in your kitchen.
+# ✨ Features
+🎲 Interactive dice rolling with clickable holds
 
-🤖 Claude AI Powered – Unique, creative ideas every time.
+🎯 Simple, clean UI built with React
 
-🍝 Detailed Steps – Clear instructions for every recipe.
-
-🌍 Global Cuisine Options – Explore dishes from around the world.
-
-🔄 Regenerate Recipes – Not satisfied? Get a new one instantly.
-
-🚀 Quick Start
+# 🚀 Quick Start
 bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/chef-claude.git
-cd chef-claude
+git clone https://github.com/yourusername/tenzies-game.git
+cd tenzies-game
 
 # 2️⃣ Install dependencies
 npm install
 
-# 3️⃣ Add Claude API Key in .env file
-CLAUDE_API_KEY=your_api_key_here
-
-# 4️⃣ Start the app
-npm run dev
+# 3️⃣ Start the React app
+npm start
+Open your browser to http://localhost:3000 to play!
